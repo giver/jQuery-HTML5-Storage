@@ -1,6 +1,7 @@
 /*
  * jQuery HTML5 Storage
- * Author: Tanin Srivaraphong
+ * Original: Dave Schindler (http://sites.google.com/site/daveschindler/jquery-html5-storage-plugin)
+ * Modified: Tanin Srivaraphong
  * Version: 0.0.1
  * Date: 30 Mar 2011
  */
